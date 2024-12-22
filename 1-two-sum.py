@@ -4,8 +4,8 @@ from typing import List
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         """
-        return indices of two numbers such that they add up to target number
         given: list = [1,2,3], target = 5
+        return indices of two numbers such that they add up to target number
         process: list[1] + list[2] = 2 + 3 = 5
         return: 1, 2
         """
